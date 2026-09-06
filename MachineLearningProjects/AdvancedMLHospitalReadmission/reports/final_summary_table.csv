@@ -1,0 +1,6 @@
+Stage,Model,Features,ROC-AUC,Notes
+Baseline,CatBoost,2304,0.6918,6 models compared; CatBoost/LightGBM selected as champions
+Feature Engineering,CatBoost,229,0.687,Clinical ICD-9 grouping + derived utilization/medication features
+Feature Selection,CatBoost,150,0.6876,Combined MI + CatBoost importance + RFE ranking
+Hyperparameter Optimization,CatBoost,150,0.6881,Random Search beat Bayesian Opt. and Genetic Algorithm (validation)
+Final Test Evaluation,CatBoost,150,0.6922,One-time evaluation on held-out test set

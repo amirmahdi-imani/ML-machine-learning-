@@ -1,0 +1,3 @@
+method,model,ROC-AUC,Train Time (s),params
+Genetic Algorithm,CatBoost,0.687481314176452,411.7,"{'depth': 8, 'learning_rate': 0.03882458572802511, 'iterations': 598, 'l2_leaf_reg': 3}"
+Genetic Algorithm,LightGBM,0.6865623614755193,66.87,"{'num_leaves': 115, 'learning_rate': 0.12845440557093132, 'n_estimators': 141, 'max_depth': 5, 'min_child_samples': 58}"

@@ -1,0 +1,61 @@
+method,model,trial,params,ROC-AUC,Train Time (s)
+Random Search,CatBoost,0,"{'depth': 10, 'learning_rate': 0.1501725572054684, 'iterations': 370, 'l2_leaf_reg': 8}",0.674680865261496,25.97
+Random Search,CatBoost,1,"{'depth': 8, 'learning_rate': 0.07614125909890607, 'iterations': 221, 'l2_leaf_reg': 3}",0.6866164194157526,6.28
+Random Search,CatBoost,2,"{'depth': 10, 'learning_rate': 0.012184186502221764, 'iterations': 187, 'l2_leaf_reg': 5}",0.674342958745866,12.63
+Random Search,CatBoost,3,"{'depth': 7, 'learning_rate': 0.016256670876862694, 'iterations': 230, 'l2_leaf_reg': 6}",0.6749475069798341,4.95
+Random Search,CatBoost,4,"{'depth': 8, 'learning_rate': 0.2708160864249968, 'iterations': 591, 'l2_leaf_reg': 6}",0.6615748897138926,18.16
+Random Search,CatBoost,5,"{'depth': 5, 'learning_rate': 0.01855998084649059, 'iterations': 376, 'l2_leaf_reg': 1}",0.6767501270256676,7.26
+Random Search,CatBoost,6,"{'depth': 7, 'learning_rate': 0.08007296015034579, 'iterations': 352, 'l2_leaf_reg': 9}",0.6873497769549048,7.89
+Random Search,CatBoost,7,"{'depth': 4, 'learning_rate': 0.05958758776628972, 'iterations': 610, 'l2_leaf_reg': 10}",0.6854718567325443,9.37
+Random Search,CatBoost,8,"{'depth': 7, 'learning_rate': 0.27438159337282275, 'iterations': 882, 'l2_leaf_reg': 3}",0.654942550242812,21.34
+Random Search,CatBoost,9,"{'depth': 7, 'learning_rate': 0.05748924681991978, 'iterations': 931, 'l2_leaf_reg': 9}",0.6874620896297758,23.19
+Random Search,CatBoost,10,"{'depth': 6, 'learning_rate': 0.18631003721334807, 'iterations': 746, 'l2_leaf_reg': 5}",0.6782150503955915,14.26
+Random Search,CatBoost,11,"{'depth': 4, 'learning_rate': 0.012476394272569451, 'iterations': 487, 'l2_leaf_reg': 9}",0.6727524866571799,7.52
+Random Search,CatBoost,12,"{'depth': 7, 'learning_rate': 0.06792740114629246, 'iterations': 876, 'l2_leaf_reg': 10}",0.6870656701152371,20.17
+Random Search,CatBoost,13,"{'depth': 8, 'learning_rate': 0.021930986997479973, 'iterations': 191, 'l2_leaf_reg': 7}",0.6772155999496772,6.26
+Random Search,CatBoost,14,"{'depth': 7, 'learning_rate': 0.05388108577817234, 'iterations': 134, 'l2_leaf_reg': 1}",0.6800611395465455,3.89
+Random Search,CatBoost,15,"{'depth': 7, 'learning_rate': 0.018585951462501547, 'iterations': 487, 'l2_leaf_reg': 2}",0.6823060532980622,12.97
+Random Search,CatBoost,16,"{'depth': 9, 'learning_rate': 0.05864129169696527, 'iterations': 205, 'l2_leaf_reg': 4}",0.684526867764787,11.3
+Random Search,CatBoost,17,"{'depth': 9, 'learning_rate': 0.011123809168675955, 'iterations': 501, 'l2_leaf_reg': 10}",0.6811494167601826,24.73
+Random Search,CatBoost,18,"{'depth': 7, 'learning_rate': 0.24420460844911424, 'iterations': 369, 'l2_leaf_reg': 8}",0.6768398415768222,9.22
+Random Search,CatBoost,19,"{'depth': 9, 'learning_rate': 0.01947558230629543, 'iterations': 801, 'l2_leaf_reg': 8}",0.688050916026244,37.34
+Random Search,CatBoost,20,"{'depth': 8, 'learning_rate': 0.03750796359625606, 'iterations': 437, 'l2_leaf_reg': 5}",0.6870357598843467,15.31
+Random Search,CatBoost,21,"{'depth': 5, 'learning_rate': 0.26656254771744614, 'iterations': 287, 'l2_leaf_reg': 9}",0.682779596980542,5.39
+Random Search,CatBoost,22,"{'depth': 8, 'learning_rate': 0.1530883741573138, 'iterations': 164, 'l2_leaf_reg': 9}",0.6837836800418182,5.78
+Random Search,CatBoost,23,"{'depth': 10, 'learning_rate': 0.042209997499902736, 'iterations': 228, 'l2_leaf_reg': 8}",0.6843725871458709,17.99
+Random Search,CatBoost,24,"{'depth': 10, 'learning_rate': 0.1601531217136121, 'iterations': 692, 'l2_leaf_reg': 8}",0.6666241660525627,54.87
+Random Search,CatBoost,25,"{'depth': 6, 'learning_rate': 0.14695524321624376, 'iterations': 478, 'l2_leaf_reg': 5}",0.6850762281523357,11.8
+Random Search,CatBoost,26,"{'depth': 5, 'learning_rate': 0.0338452204120114, 'iterations': 140, 'l2_leaf_reg': 7}",0.6735644453130734,2.98
+Random Search,CatBoost,27,"{'depth': 4, 'learning_rate': 0.08330803890301997, 'iterations': 132, 'l2_leaf_reg': 7}",0.6777109750338189,2.59
+Random Search,CatBoost,28,"{'depth': 10, 'learning_rate': 0.09726568066784747, 'iterations': 904, 'l2_leaf_reg': 3}",0.6675608259975788,72.12
+Random Search,CatBoost,29,"{'depth': 7, 'learning_rate': 0.0874479618932312, 'iterations': 646, 'l2_leaf_reg': 1}",0.6846992268826763,17.38
+Random Search,LightGBM,0,"{'num_leaves': 241, 'learning_rate': 0.015019490572374374, 'n_estimators': 561, 'max_depth': 5, 'min_child_samples': 10}",0.6819341931015482,3.15
+Random Search,LightGBM,1,"{'num_leaves': 19, 'learning_rate': 0.06746437142284309, 'n_estimators': 866, 'max_depth': 9, 'min_child_samples': 36}",0.6828333805149874,2.9
+Random Search,LightGBM,2,"{'num_leaves': 151, 'learning_rate': 0.11213346937437467, 'n_estimators': 957, 'max_depth': 12, 'min_child_samples': 86}",0.6554195966344678,8.71
+Random Search,LightGBM,3,"{'num_leaves': 193, 'learning_rate': 0.011128194768838964, 'n_estimators': 842, 'max_depth': 3, 'min_child_samples': 61}",0.6768840289794464,2.27
+Random Search,LightGBM,4,"{'num_leaves': 110, 'learning_rate': 0.10650293943002245, 'n_estimators': 584, 'max_depth': 9, 'min_child_samples': 24}",0.6681893121011694,4.21
+Random Search,LightGBM,5,"{'num_leaves': 185, 'learning_rate': 0.019950144748611585, 'n_estimators': 624, 'max_depth': 9, 'min_child_samples': 68}",0.685347986731544,6.08
+Random Search,LightGBM,6,"{'num_leaves': 100, 'learning_rate': 0.1997826452218776, 'n_estimators': 781, 'max_depth': 11, 'min_child_samples': 15}",0.6514901541750534,6.56
+Random Search,LightGBM,7,"{'num_leaves': 42, 'learning_rate': 0.1538583627271404, 'n_estimators': 655, 'max_depth': 6, 'min_child_samples': 39}",0.672093541511123,2.86
+Random Search,LightGBM,8,"{'num_leaves': 204, 'learning_rate': 0.06261435181296006, 'n_estimators': 605, 'max_depth': 9, 'min_child_samples': 98}",0.6783300102792409,3.87
+Random Search,LightGBM,9,"{'num_leaves': 245, 'learning_rate': 0.21852220060990538, 'n_estimators': 484, 'max_depth': 11, 'min_child_samples': 36}",0.649534560973176,5.18
+Random Search,LightGBM,10,"{'num_leaves': 204, 'learning_rate': 0.010017714720800423, 'n_estimators': 844, 'max_depth': 5, 'min_child_samples': 79}",0.6825245206590917,3.13
+Random Search,LightGBM,11,"{'num_leaves': 214, 'learning_rate': 0.0615056246126792, 'n_estimators': 417, 'max_depth': 7, 'min_child_samples': 60}",0.6858446612077993,2.24
+Random Search,LightGBM,12,"{'num_leaves': 248, 'learning_rate': 0.0315281541750961, 'n_estimators': 926, 'max_depth': 8, 'min_child_samples': 41}",0.6819060019422118,5.64
+Random Search,LightGBM,13,"{'num_leaves': 110, 'learning_rate': 0.06673971219322068, 'n_estimators': 791, 'max_depth': 3, 'min_child_samples': 71}",0.6849757794924158,1.96
+Random Search,LightGBM,14,"{'num_leaves': 255, 'learning_rate': 0.023717223971324284, 'n_estimators': 367, 'max_depth': 9, 'min_child_samples': 11}",0.6805538109265996,4.43
+Random Search,LightGBM,15,"{'num_leaves': 145, 'learning_rate': 0.027824908605603306, 'n_estimators': 724, 'max_depth': 10, 'min_child_samples': 90}",0.6836276238560386,5.81
+Random Search,LightGBM,16,"{'num_leaves': 201, 'learning_rate': 0.07950609693143304, 'n_estimators': 741, 'max_depth': 8, 'min_child_samples': 96}",0.675036608153345,4.59
+Random Search,LightGBM,17,"{'num_leaves': 243, 'learning_rate': 0.03233791944457942, 'n_estimators': 484, 'max_depth': 5, 'min_child_samples': 11}",0.6837042960615054,1.96
+Random Search,LightGBM,18,"{'num_leaves': 67, 'learning_rate': 0.052842222499425995, 'n_estimators': 771, 'max_depth': 8, 'min_child_samples': 41}",0.6806628468735317,4.28
+Random Search,LightGBM,19,"{'num_leaves': 82, 'learning_rate': 0.01316528202190345, 'n_estimators': 283, 'max_depth': 3, 'min_child_samples': 47}",0.6695707676869946,1.0
+Random Search,LightGBM,20,"{'num_leaves': 38, 'learning_rate': 0.04950978760714172, 'n_estimators': 709, 'max_depth': 8, 'min_child_samples': 95}",0.6842769486579992,3.77
+Random Search,LightGBM,21,"{'num_leaves': 153, 'learning_rate': 0.16068260833997397, 'n_estimators': 243, 'max_depth': 3, 'min_child_samples': 82}",0.6839614949924333,1.06
+Random Search,LightGBM,22,"{'num_leaves': 138, 'learning_rate': 0.056321111202236006, 'n_estimators': 563, 'max_depth': 5, 'min_child_samples': 29}",0.6846645710458052,2.15
+Random Search,LightGBM,23,"{'num_leaves': 201, 'learning_rate': 0.021150601975979937, 'n_estimators': 445, 'max_depth': 5, 'min_child_samples': 28}",0.6828753565297908,2.36
+Random Search,LightGBM,24,"{'num_leaves': 162, 'learning_rate': 0.08974255743856958, 'n_estimators': 919, 'max_depth': 11, 'min_child_samples': 42}",0.6605061921603042,8.55
+Random Search,LightGBM,25,"{'num_leaves': 182, 'learning_rate': 0.03726104236509947, 'n_estimators': 437, 'max_depth': 10, 'min_child_samples': 10}",0.678993507333075,4.93
+Random Search,LightGBM,26,"{'num_leaves': 25, 'learning_rate': 0.03190041672417551, 'n_estimators': 572, 'max_depth': 4, 'min_child_samples': 32}",0.684262098462414,1.71
+Random Search,LightGBM,27,"{'num_leaves': 173, 'learning_rate': 0.1976681084946931, 'n_estimators': 710, 'max_depth': 9, 'min_child_samples': 25}",0.6503717891738394,5.67
+Random Search,LightGBM,28,"{'num_leaves': 104, 'learning_rate': 0.28234606253211325, 'n_estimators': 671, 'max_depth': 3, 'min_child_samples': 11}",0.6792273494889903,1.69
+Random Search,LightGBM,29,"{'num_leaves': 143, 'learning_rate': 0.01372537052078299, 'n_estimators': 751, 'max_depth': 7, 'min_child_samples': 46}",0.68573619021396,4.17
